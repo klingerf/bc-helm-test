@@ -3,10 +3,10 @@ entries:
   linkerd-buoyant:
   - apiVersion: v2
     appVersion: 0.0.0-undefined
-    created: "2023-08-15T17:25:54.95911676-05:00"
+    created: "2023-08-16T11:20:22.354805734-05:00"
     description: The Linkerd Buoyant extension connects your Linkerd-enabled Kubernetes
       cluster to Buoyant Cloud.
-    digest: c117a442a9b2fda9aa867e5b04781d17c71a87ceef9b7ad868342407153d52a5
+    digest: 14f5010edfcbeff020e7023753d78787fa37aaee0d2c6f0589c57fcddd3f87bf
     home: https://buoyant.io/cloud
     icon: https://buoyant.io/images/buoyant-icon.svg
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - https://alpeb.github.io/bc-helm-test/linkerd-buoyant-0.0.0-undefined.tgz
     version: 0.0.0-undefined
-generated: "2023-08-15T17:25:54.958036074-05:00"
+generated: "2023-08-16T11:20:22.353944994-05:00"
